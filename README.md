@@ -57,4 +57,18 @@ nmap --script vuln <target-ip>
 
 ---
 
+## 📊 Key Findings
+- ✅ Host is active and reachable
+- 🔓 Port 22 (SSH) is open
+- 🖥️ OS detected: Linux (Kernel 5.x / 6.x)
+- 🔧 Service detected: OpenSSH 10.2p1
+- ⚠️ No critical vulnerabilities detected (basic scan)
 
+---
+
+## 🔎 Analysis
+- Open SSH port may allow remote access
+- Weak credentials can lead to unauthorized access
+- System appears secure but requires deeper testing
+
+---
