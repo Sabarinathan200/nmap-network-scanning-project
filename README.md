@@ -117,5 +117,5 @@ Low to Medium
 
 ## 👨‍💻 Author
 
-# **Sabarinathan B**
+**Sabarinathan B** <br />
 Cybersecurity Enthusiast | Ethical Hacking Learner
