@@ -54,3 +54,7 @@ nmap -A <target-ip>
 ```bash
 nmap --script vuln <target-ip>
 ```
+
+---
+
+
