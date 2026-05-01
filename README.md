@@ -100,7 +100,7 @@ Low to Medium
 
 ---
 
-##📚 Learning Outcome
+## 📚 Learning Outcome
 - Learned how to perform network scanning using Nmap
 - Understood how to interpret scan results
 - Gained knowledge of ports, services, and vulnerabilities
@@ -108,14 +108,14 @@ Low to Medium
 
 ---
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 - Perform deeper vulnerability scanning
 - Use additional tools like Burp Suite
 - Set up a complete penetration testing lab
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 **Sabarinathan B**
 Cybersecurity Enthusiast | Ethical Hacking Learner
