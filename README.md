@@ -72,3 +72,50 @@ nmap --script vuln <target-ip>
 - System appears secure but requires deeper testing
 
 ---
+
+## ⚠️ Risk Level
+
+Low to Medium
+
+---
+
+## 🛡️ Recommendations
+- Use strong SSH passwords
+- Disable root login
+- Keep system updated
+- Apply firewall restrictions
+
+---
+
+## 📸 Screenshots
+🔹 Local IP Address
+
+🔹 Basic Scan
+
+🔹 Network Scan
+
+🔹 Advanced Scan
+
+🔹 Vulnerability Scan
+
+---
+
+##📚 Learning Outcome
+- Learned how to perform network scanning using Nmap
+- Understood how to interpret scan results
+- Gained knowledge of ports, services, and vulnerabilities
+- Improved practical cybersecurity skills
+
+---
+
+##🚀 Future Improvements
+- Perform deeper vulnerability scanning
+- Use additional tools like Burp Suite
+- Set up a complete penetration testing lab
+
+---
+
+##👨‍💻 Author
+
+**Sabarinathan B**
+Cybersecurity Enthusiast | Ethical Hacking Learner
