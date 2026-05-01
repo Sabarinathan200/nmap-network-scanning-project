@@ -33,3 +33,24 @@ This project demonstrates network reconnaissance and basic vulnerability analysi
 ### 🔹 Basic Scan
 ```bash
 nmap <target-ip>
+```
+
+### 🔹 Network Scan
+```bash
+nmap 192.168.29.0/24
+```
+
+### 🔹 Service & OS Detection
+```bash
+nmap -sS -sV -O <target-ip>
+```
+
+### 🔹 Aggressive Scan
+```bash
+nmap -A <target-ip>
+```
+
+### 🔹 Vulnerability Scan
+```bash
+nmap --script vuln <target-ip>
+```
